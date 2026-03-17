@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm nclsoares, but you can call me Níck</h1>
 <h3 align="center">A technology enthusiast and backend lover 🧩🖥️</h3>
 
-- 🧩 I'm currently studying on **Trybe**
+- 🧩 I'm a full-stack web developer.
 
-- 🌱 I’m also learning **about Node.js, Python, MySQL;**
+- 🌱 I’m also learning **about Python, JAVA;**
 
 - 💬 Ask me about **React, Docker, JavaScript;**
 
