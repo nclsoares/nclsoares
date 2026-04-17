@@ -3,11 +3,9 @@
 
 - 🧩 I'm a full-stack web developer.
 
-- 🌱 I’m also learning **about Python, JAVA;**
+- 🌱 I’m currently studying **JAVA, Spring Framework;**
 
-- 💬 Ask me about **React, Docker, JavaScript;**
-
-- 📫 You can find at **niksoares81@gmail.com**
+- 📫 You can find at **niksoares81@gmail.com** ****
 
 - ⚡ Fun fact **You know, it works on my machine 😅**
 
